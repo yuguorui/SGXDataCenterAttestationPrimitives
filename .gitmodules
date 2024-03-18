@@ -13,3 +13,6 @@
 [submodule "external/jwt-cpp"]
 	path = external/jwt-cpp
 	url = https://github.com/Thalhammer/jwt-cpp.git
+[submodule "SampleCode/TDXQuoteVerificationSample/external/jwt-cpp"]
+	path = SampleCode/TDXQuoteVerificationSample/external/jwt-cpp
+	url = https://github.com/Thalhammer/jwt-cpp/

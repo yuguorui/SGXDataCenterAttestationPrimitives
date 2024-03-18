@@ -1,0 +1,6 @@
+*.o
+relying_party
+verifier
+ec_priv.pem
+.gdb_history
+Policies/tenant_td_policy.jwt
